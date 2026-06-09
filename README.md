@@ -17,7 +17,7 @@ Build an interactive dashboard to:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used:
 - **Microsoft Power BI**
 - **Microsoft Excel**
 - **Power Query**
